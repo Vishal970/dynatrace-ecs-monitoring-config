@@ -1,0 +1,28 @@
+dt_env_url   = "https://XXXXXXXXXX.live.dynatrace.com"
+dt_api_token = "dt0c01.XXXXXXXXXXXXXXXXXXXX.YYYYYYYYYYYYYYYY"
+
+app_name  = "my-nextjs-app"
+team      = "platform"
+timezone  = "America/New_York"
+
+slack_webhook_p1  = "https://hooks.slack.com/services/XXXXX/YYYYY/ZZZZZ"
+slack_webhook_p2  = "https://hooks.slack.com/services/XXXXX/YYYYY/ZZZZZ"
+pagerduty_api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+services = {
+  "api-service" = {
+    entity_id                    = "SERVICE-XXXXXXXXXXXXXXXX"
+    response_time_threshold_ms   = 1000
+    error_rate_threshold_percent = 5
+  }
+  "frontend-service" = {
+    entity_id                    = "SERVICE-YYYYYYYYYYYYYYYY"
+    response_time_threshold_ms   = 2000
+    error_rate_threshold_percent = 3
+  }
+  "worker-service" = {
+    entity_id                    = "SERVICE-ZZZZZZZZZZZZZZZZ"
+    response_time_threshold_ms   = 5000
+    error_rate_threshold_percent = 10
+  }
+}
