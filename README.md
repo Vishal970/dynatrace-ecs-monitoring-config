@@ -184,4 +184,4 @@ See [CHANGELOG.md](CHANGELOG.md)
 ## Author
 
 Vishal Agarwal — Senior DevOps | SRE & Platform Engineer  
-[LinkedIn](https://www.linkedin.com/in/vishal-agarwal-6914a5119/) · [GitHub](https://github.com/vishal-agarwal)
+[LinkedIn](https://www.linkedin.com/in/vishal-agarwal-6914a5119/) · [GitHub](https://github.com/Vishal970)
