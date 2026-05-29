@@ -3,7 +3,7 @@
 ![Dynatrace Provider](https://img.shields.io/badge/Dynatrace_Provider-1.50%2B-00B4E6?logo=dynatrace)
 ![Terraform](https://img.shields.io/badge/Terraform-1.5%2B-7B42BC?logo=terraform)
 ![AWS ECS](https://img.shields.io/badge/AWS-ECS_Fargate-FF9900?logo=amazonaws)
-![CI](https://github.com/vishal-agarwal/dynatrace-ecs-monitoring-config/actions/workflows/validate.yml/badge.svg)
+![CI](https://github.com/Vishal970/dynatrace-ecs-monitoring-config/actions/workflows/validate.yml/badge.svg)
 
 Production-grade Dynatrace monitoring configuration as code for AWS ECS/Fargate workloads. Built from real-world experience tuning observability stacks for containerized microservices — reduces alert noise by **60%** while ensuring zero production incidents go undetected.
 
